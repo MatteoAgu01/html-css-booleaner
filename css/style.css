@@ -1,0 +1,49 @@
+body{
+     margin: 0%;
+     box-sizing: border-box;
+     height: 100%;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+     background-color: rgb(64, 133, 238);
+     background-image: url(../img/pattern.png);
+     background-size: contain;
+}
+
+.logo{
+     width: 10%;
+}
+
+h1{
+     font-size: 40px;
+}
+
+section >h4{
+     display: inline-block ;
+     margin: 0%;
+     color: grey;
+}
+
+section >h3{
+     display: inline-block ;
+     color: cyan;
+     margin: 0%;
+}
+
+.date{
+     margin-top: 0%;
+     font-size: 12px;
+}
+
+.important{
+     background-color: yellow;
+}
+
+.unabered-list{
+     padding-inline-start: 20px;   
+}
+
+h5{
+     color: grey;
+}
