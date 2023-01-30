@@ -6,6 +6,7 @@ body {
      font-size: 80%;
 }
 
+/* header */
 header {
      background-color: rgb(64, 133, 238);
      background-image: url(../img/pattern.png);
@@ -18,7 +19,9 @@ header {
      margin-bottom: 0%;
      margin-top: 5%;
 }
+/* //header */
 
+/* setting section 1 */
 h1 {
      font-size: 40px;
 }
@@ -39,26 +42,30 @@ section>h3 {
      margin-top: 0%;
      font-size: 12px;
 }
+/* //setting section 1 */
 
+/* section con foto */
 .picturs>p {
      color: grey;
      font-style: oblique;
 }
+/* //section con foto */
 
+/* section paragrafo sotto foto  */
 .important {
      background-color: yellow;
 }
+/* //section paragrafo sotto foto  */
 
+/* section con settting di UL */
 .unabered-list {
      padding-inline-start: 20px;
      margin-top: 2%;
      margin-bottom: 2%;
 }
+/* //section con settting di UL */
 
-h5 {
-     color: grey;
-}
-
+/* setting tabella */
 td {
      padding: 20px;
 }
@@ -71,12 +78,22 @@ td {
 .cayne {
      background-color: rgb(182, 241, 241);
 }
+/* //setting tabella */
 
+/* section con setting paragrafo */
 .paragraph {
      margin-top: 40px;
      margin-bottom: 40px;
 }
+/* //section con setting paragrafo */
 
+/* sectio con h5 nel footer */
+h5 {
+     color: grey;
+}
+/* //sectio con h5 nel footer */
+
+/* foto nel footer */
 .imgfooter {
      width: 312px;
      height: 208px;
@@ -88,8 +105,11 @@ td {
      height: 208px;
      background-image: url(../img/graph.jpg);
 }
+/* //foto nel footer */
 
+/* scritte sulle foto nel footer*/
 div>h4 {
      color: white;
      text-align: center;
 }
+/* //scritte sulle foto nel footer */
