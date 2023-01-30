@@ -4,6 +4,7 @@ body {
      height: 150vh;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
      font-size: 80%;
+     background-color: rgb(230, 230, 219)
 }
 
 /* header */
@@ -66,13 +67,22 @@ section>h3 {
 /* //section con settting di UL */
 
 /* setting tabella */
+table{
+     border-collapse: collapse ;
+} 
+
 td {
      padding: 20px;
 }
 
+
 .testatable {
      background-color: blue;
      color: white;
+}
+
+.white{
+     background-color: white;
 }
 
 .cayne {
